@@ -12,11 +12,12 @@ performing a database lookup for evaluating possible violations
 related to that license plate.
 
 The database lookup currently checks for the following:
-    * Unregistered plates
-    * Expired plates
-    * Wanted/Reported plates
-    * Stolen plates
-    
+
+   * Unregistered plates
+   * Expired plates
+   * Wanted/Reported plates
+   * Stolen plates
+
 ## Requirements ##
 SPEAR is written in Python version 2.7.8.
 
