@@ -20,13 +20,14 @@ The database lookup currently checks for the following:
 
 ## Requirements ##
 SPEAR is written in Python version 2.7.8.
+MySQL is needed for Database Lookup.
 
 The following Python libraries are required:
 
-    * SimpleCV
-    * openCV
-    * matplotlib.pyplot
-    * numpy
-    * texttable
-    * termcolor
-    * pymysql
+  * SimpleCV
+  * openCV
+  * matplotlib.pyplot
+  * numpy
+  * texttable
+  * termcolor
+  * pymysql
